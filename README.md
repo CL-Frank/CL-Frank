@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cl-frank" alt="cl-frank" /></a> </p>
 
-- 🌱 I’m currently studying **BComp at Belgium Campus**
+- 🌱 I’m currently a 3rd year student studying **Bachelor of Computing at Belgium Campus**
 
 - 📫 How to reach me **frankcaydan@gmail.com**
 
