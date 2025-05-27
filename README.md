@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caydan Frank</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate software developer from South Africa</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cl-frank" alt="cl-frank" /></a> </p>
 
